@@ -1,0 +1,12 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section{
+    border: 20px solid white;
+    border-radius: 80px;
+    margin-left: 220px;
+    margin-right: 220px;
+}
